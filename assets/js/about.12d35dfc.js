@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgdroid_home"]=self["webpackChunkgdroid_home"]||[]).push([[443],{4335:function(n,e,r){r.r(e),r.d(e,{default:function(){return h}});var u=r(3396);const t={class:"about"},a=(0,u._)("h1",null,"This is an about page",-1),o=[a];function s(n,e){return(0,u.wg)(),(0,u.iD)("div",t,o)}var i=r(89);const c={},d=(0,i.Z)(c,[["render",s]]);var h=d}}]);
+//# sourceMappingURL=about.12d35dfc.js.map
